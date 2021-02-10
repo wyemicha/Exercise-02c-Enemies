@@ -80,6 +80,8 @@ func _on_Shoot_timeout():
 
 ```
 
+In the Scene panel, select the Enemy node, and then in the Inspector, open the KinematicBody2D->Collision section. Clear the Mask, and set the Layer to the third box from the left on the top row.
+
 Save the scene as res://Enemy/Enemy.tscn
 
 Go back to the Game Scene. Right-click on the Enemies node and choose Instance Child Scene. Choose Enemy/Enemy.tscn.
