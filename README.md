@@ -2,6 +2,8 @@
 
 Exercise for MSCH-C220, 10 February 2021
 
+A demonstration of this exercise is available at [https://youtu.be/TOXMqhFiYqw](https://youtu.be/TOXMqhFiYqw)
+
 This exercise should provide an important step toward being able to implement Project 02. We will be creating enemies that periodically shoot and move according to a preset pattern.
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-02c-Enemies. *Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name.* Commit your changes.
